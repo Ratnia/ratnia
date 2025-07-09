@@ -1,6 +1,6 @@
-![GitHub Banner](https://cdn.discordapp.com/attachments/1382063155114545397/1386564067250143252/1386563989646868511remix-1750653030196.png?ex=685a29ea&is=6858d86a&hm=2e004a188b32152292fbeb3470689b44ef8ba74f3dc3268e5e118cb3d1abb826&)
+![status](https://api.statusbadges.me/badge/status/1202432891100069898?simple=true&style=for-the-badge)
+![vscode](https://api.statusbadges.me/badge/vscode/1202432891100069898?style=for-the-badge)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1202432891100069898) 
 
 ![](https://github-readme-stats.vercel.app/api?username=ratnia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ratnia&theme=dark&hide_border=false)<br/>
