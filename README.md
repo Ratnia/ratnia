@@ -5,6 +5,6 @@
 <p align="center"> Hoi i'm Ratnia </p>
 
 
-Hello i do anything 
+Hello i do anything, but still not anything
 
 i'm still fixing the profile
